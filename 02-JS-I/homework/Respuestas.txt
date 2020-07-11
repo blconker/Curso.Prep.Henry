@@ -1,0 +1,7 @@
+Explicacion de conceptos:
+
+*Variables:Son objetos que contienen un valor y se pueden volver a usar, coomo una caja donde pones algo adentro y la abris cuando queres para usar su contenido.
+*String: Es una cadena de caracteres y van entre comillas, como una frase q puede contener desde una letra, un numero, simbolos o varios de ellos.
+*Funciones(argumentos,return): Son objetos que pueden estar compuesto por argumentos y pueden devolver algun valor. Seria como un objeto q podes llamar para que cumpla su función.
+*Declaraciones if: El if es un operador de flujo y comparacion. Sirve para hacer algo cuando se valida la declaración.
+*Valores booleanos(true,false): Es como el codigo binario, puede ser 0 o 1. Osea q pueden ser solo uno de los 2 valores, Verdadero o Falso.
