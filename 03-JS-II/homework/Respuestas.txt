@@ -1,0 +1,5 @@
+Explicaciones:
+* for : Es un bucle en donde los argumentos son una variable inicial, una conficion y un incremento. Osea sirve para repetir las intrucciones que contiene.
+* && : Es el operador lógico AND. Significa que devuelve true si se cumplen las condiciones.
+* || : Es el operador lógico OR. Significa que devuelve true si se cumple una de las condiciones.
+* ! : El el operador lógico NOT. Sirve para negar y devuelve lo opuesto.
