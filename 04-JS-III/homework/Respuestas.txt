@@ -1,0 +1,2 @@
+Explicación:
+* Arrays : Es una matriz donde se almacena, en fila, datos en celdas. Tambien existen vectores. Como una caja de chocolates de una fila y cada chocolate esta separado en posiciones. 
