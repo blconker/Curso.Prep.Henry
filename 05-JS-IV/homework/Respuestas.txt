@@ -1,0 +1,8 @@
+Explicación:
+* Objetos : Los objetos contienen datos. Tienen mucha información sobre una sola cosa.
+* Propiedades : Son como atributos de los objetos. Se declaran como Clave:Valor(Key:Value)
+* Métodos : Son funciones(una seria de instrucciones) que al estar guardadas en el objeto pasan a ser metodos. 
+* Bucle for...in : Significa "for ... in loop". Es un iterador, recorre cada clave del objeto y finaliza cuando se iteraron todas las claves.
+* Notación de puntos vs notación de corchetes : Sirven para acceder a los valores del objeto.
+ Con la notacion de puntos es el nombre del objeto, un punto y el nombre de la clave(hay q tener cuidado porq tiene q ser exactamente el nombre del atributo). 
+ Con la notacion de corchetes es como llamar a un elemento en una matriz. Generalmente, los corchetes casi siempre se usan con variables.
