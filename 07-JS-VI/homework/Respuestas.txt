@@ -1,0 +1,5 @@
+Explicación:
+* Funciones Callback: Se le dice, en JS, a la capacidad de pasar una función como argumento a otra función.
+ Se las pueden llamar en cualquier momento y pasar argumentos dentro de la función.
+ Se usa cb como argumento para la variable que se usará de callback.
+ Existen métodos q toman los callbacks como argumentos, se llaman "métodos de orden superior". Por ejemplo .forEach .reduce .map
