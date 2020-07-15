@@ -1,0 +1,5 @@
+Explicaciones:
+* prototype : Sirve para reducir el costo en la memoria de la pc.
+ Las clases tienen una forma única de establecer un método una vez y dar acceso a cada objeto de esa clase a esos metodos.
+ Cada clase tiene una propiedad prototype, que luego podemos establecer en métodos.
+* Constructors(de clase) : En JS les decimos constructores a la Herencia(la capacidad de un constructor de heredar propiedades y métodos de otro constructor)
